@@ -9,3 +9,4 @@ Dalam rangka perbaikan proses bisnis, Andi seorang pemilik supermarket besar di 
 2. Module 'test' berfungsi untuk menjalankan program pada module 'self_cashier'.
 
 ## Flowchart
+![alt text](https://github.com/Sindi06/Self-Cashier-Project/blob/main/Pict/Blank%20diagram.png?raw=true)
